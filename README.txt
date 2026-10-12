@@ -1,0 +1,1 @@
+Neuroglia Independent PWA v2 — Complete Theory corrected. Open index.html locally, or upload ALL files/folders to GitHub Pages root. Install after publishing via browser Add to Home Screen. All 28 original slides plus full text inside theory, 24 Best of Five questions, two external NotebookLM links.
